@@ -7,3 +7,4 @@ Based on [OpenRTB V2.6 protocol](https://iabtechlab.com/wp-content/uploads/2022/
 
 ## Architecture
 ![Architecture](docs/system-design.drawio.png)
+
